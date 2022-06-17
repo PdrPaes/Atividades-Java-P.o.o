@@ -1,0 +1,9 @@
+public class MyClass {
+    public static void main(String args[]) {
+      int x=7;
+
+      System.out.println("O valor informado foi " + x + " metros");
+      System.out.println("O valor em centímetros é " + x * 100 + " centímetros");
+      System.out.println("O valor em centímetros é " + x * 1000 + " milímetros");
+    }
+}
